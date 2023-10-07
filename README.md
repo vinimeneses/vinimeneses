@@ -8,7 +8,8 @@
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADciusmeneses/)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oviniciusmeneses/)  
 
-![vinimeneses GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimeneses&show_icons=true&theme=dracula)![dck](https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif)
+![vinimeneses GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimeneses&show_icons=true&theme=dracula)
+![dck](https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif)
 
 
 ## Skills
