@@ -1,12 +1,15 @@
 ![github](https://komarev.com/ghpvc/?username=vinimeneses&color=blue&style=for-the-badge)
-## Hi There, I'm Vinícius!
-![gif](https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif)
+## Hello, I'm Vinícius! 👋
+### I'm a student of Analysis and Systems Development at Estácio University, and I have a deep passion for technology.
+
+![dck](https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif)
 
 ### Found me on:
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.viníciusmeneses/)
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADciusmeneses/)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oviniciusmeneses/)  
 
 ![vinimeneses GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimeneses&show_icons=true&theme=dracula)
+
 
 ## Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -19,3 +22,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+
