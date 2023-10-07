@@ -9,8 +9,6 @@ I'm a student of Analysis and Systems Development at Estácio University, and I 
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oviniciusmeneses/)  
 
 ![vinimeneses GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimeneses&show_icons=true&theme=dracula)
-![dck](https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif)
-
 
 ## Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
