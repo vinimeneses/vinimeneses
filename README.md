@@ -1,6 +1,6 @@
 ![github](https://komarev.com/ghpvc/?username=vinimeneses&color=blue&style=for-the-badge)
 ## Hello, I'm Vinícius! 👋
-### I'm a student of Analysis and Systems Development at Estácio University, and I have a deep passion for technology.
+I'm a student of Analysis and Systems Development at Estácio University, and I have a deep passion for technology.
 
 
 
