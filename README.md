@@ -5,7 +5,7 @@ I'm a student of Analysis and Systems Development at Estácio University, and I 
 
 
 ### Found me on:
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADciusmeneses/)
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinimeneses/)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oviniciusmeneses/)  
 
 ![vinimeneses GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimeneses&show_icons=true&theme=dracula)
