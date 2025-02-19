@@ -13,6 +13,7 @@ Let's Code to make the world better
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinimeneses&layout=compact&show_icons=true&theme=dracula)](https://github.com/vinimeneses/github-readme-stats)
 ## Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-FF6C37?style=for-the-badge&logo=golang&logoColor=blue)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
